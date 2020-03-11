@@ -12,6 +12,7 @@
         ><Twitter
       /></a>
     </div>
+    <p>{{ $route.path }}</p>
   </div>
 </template>
 
